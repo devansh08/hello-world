@@ -1,2 +1,2 @@
 # hello-world
-Sample Repo
+Sample Repositary
